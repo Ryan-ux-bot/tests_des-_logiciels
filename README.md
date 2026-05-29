@@ -3,7 +3,7 @@
 Travaux pratiques réalisés dans le cadre du module **Tests de Logiciels** (L2CS01).  
 Ce dépôt regroupe différents comptes rendus et exemples de code autour des tests unitaires, d’intégration et de l’automatisation en Java.
 
-## 📚 Contenu des TP
+## Contenu des TP
 
 ### TP1 – Tests unitaires avec JUnit 5
 - Création d’un projet Java sous Eclipse
@@ -38,7 +38,7 @@ Ce dépôt regroupe différents comptes rendus et exemples de code autour des te
 - Implémentation des Step Definitions (`ExampleSteps.java`)
 - Exécution via `CukesRunner` : tous les tests passent
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 - **Java 8 / 11**
 - **JUnit 4 / JUnit 5**
 - **Spring Framework / Spring Boot**
@@ -47,10 +47,10 @@ Ce dépôt regroupe différents comptes rendus et exemples de code autour des te
 - **Selenium / Playwright**
 - **GitHub Actions (CI/CD)**
 
-## 👨‍🎓 Auteur
+##  Auteur
 - **Rayen Bouyahia** – Classe L2CS01  
 Université de Tunis El Manar
 
 ---
 
-⚡ Ce dépôt illustre la progression des TP : **Unit Tests → TDD → Spring → Automatisation → BDD**.
+ Ce dépôt illustre la progression des TP : **Unit Tests → TDD → Spring → Automatisation → BDD**.
